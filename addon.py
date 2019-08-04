@@ -4,6 +4,7 @@ from kodi_six import xbmc, xbmcaddon, xbmcgui, xbmcplugin, xbmcvfs
 #from xbmcswift2 import Plugin, xbmcgui
 from kodi_six import Plugin
 from resources.lib import criminalpodcast
+from xmbc import xmbcplugin
 
 URL = "http://feeds.thisiscriminal.com/CriminalShow"
 
