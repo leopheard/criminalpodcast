@@ -15,4 +15,4 @@ Criminal is a podcast about crime. Not so much the "if it bleeds, it leads," kin
 #NPR
 #PRX
 
-<a href="https://www.thisiscriminal.com"><img src="https://thisiscriminal.com/wp-content/themes/criminal-theme/assets/images/Criminal_SocialShare_1.png" alt="Criminal podcast">
+<a href="https://www.thisiscriminal.com"><img src="https://thisiscriminal.com/wp-content/themes/criminal-theme/assets/images/Criminal_SocialShare_1.png" alt="Criminal podcast"><br><a href="http://www.kodi.tv"><img src="https://kodi.tv/sites/default/files/page/field_image/about--devices.jpg">
