@@ -6,7 +6,8 @@ from kodi_six import Plugin
 from resources.lib import criminalpodcast
 from xmbc import xmbcplugin
 
-URL = "http://feeds.thisiscriminal.com/CriminalShow"
+#URL = "http://feeds.thisiscriminal.com/CriminalShow"
+URL = "https://feeds.soundcloud.com/users/soundcloud:users:69651204/sounds.rss"
 plugin = Plugin()
 
 @plugin.route('/')
