@@ -6,7 +6,6 @@ from kodi_six import Plugin
 from resources.lib import criminalpodcast
 from xmbc import xmbcplugin
 
-#URL = "http://feeds.thisiscriminal.com/CriminalShow"
 URL = "https://feeds.soundcloud.com/users/soundcloud:users:69651204/sounds.rss"
 plugin = Plugin()
 
@@ -16,11 +15,11 @@ def main_menu():
         {
             'label': plugin.get_string(30001), 
             'path': plugin.url_for('all_episodes1'),
-            'thumbnail': "resources/media/icon.jpg"},
+            'thumbnail': "https://github.com/leopheard/criminalpodcast/blob/master/resources/media/icon-inverted.jpg"},
         {
             'label': plugin.get_string(30000), 
             'path': plugin.url_for('all_episodes'),
-            'thumbnail': "/home/osmc/.kodi/addons/plugin.audio.criminalpodcast/resources/media/icon.jpg"},
+            'thumbnail': "https://github.com/leopheard/criminalpodcast/blob/master/resources/media/icon.jpg"},
         {
             'label': plugin.get_string(30002),
             'path': plugin.url_for('new_to_criminal'),
